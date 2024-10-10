@@ -15,4 +15,6 @@ High Answer Rate: With 4054 out of 5000 calls answered, call center has an answe
 Abandoned Calls: The 946 abandoned calls suggest that some customers are not willing to wait. Analyzing the reasons for abandonment (e.g., long wait times, call routing issues) could help in reducing this number.
 Speed of Answer: The average speed of answer for maximum satisfaction is 68 seconds. This is a critical metric as it shows the importance of answering calls promptly to maintain high customer satisfaction.
 Customer Satisfaction: An average satisfaction score of 3.4 indicates that while customers are generally satisfied, there is potential to enhance their experience. Focus on areas where satisfaction is lower to identify and address pain points.
-![call center](https://drive.google.com/file/d/1d8Az4zbHtSQQSzwXJc8Qq6QrnM3Uhe24/view?usp=drive_link "Call Center Dashboard")
+
+ 
+![call center](https://github.com/Namtanga/Data-Analytics-Projects/blob/main/Call%20Center%20Analysis.PNG)
